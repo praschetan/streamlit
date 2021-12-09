@@ -1,9 +1,7 @@
 import streamlit as st
 
 
-buttons = [button1, button2]
-button1 = st.button("Main")
-button2 = st.button("Overview")
+buttons = ['Main', 'Reports']
 st.sidebar.radio('Navigation', buttons)
 
 
