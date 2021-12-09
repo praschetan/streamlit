@@ -21,11 +21,11 @@ Get started in a hurry with few lines of code. For mobile apps, Project Griffon 
 
 ### No-hassle Connection
 
-With Project Griffon, we've made connecting your app with our service simple and reliable. We've saved you the hassle of using network proxies, [MiTM](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) and other network gymnastics - connecting your app to Project Griffon is made as easy as scanning a QR code.
+With Project Griffon, we've made connecting your app with our service simple and reliable. We've saved you the hassle of using network proxies, [MiTM](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) and other network gymnastics - connecting your app to Project Griffon is made as easy as scanning a QR code. """)
 
-![](https://aep-sdks.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lf1Mc1caFdNCK_mBwhe%2F-MJ3_TxeFgVZTOKfAUBD%2F-MJ3d4EQbX4kvXy0Wu3v%2FScreen%20Shot%202020-10-07%20at%201.57.30%20PM.png?alt=media&token=1ae1179e-6862-438f-88d8-0bb826ff5c82)
+st.image('https://aep-sdks.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lf1Mc1caFdNCK_mBwhe%2F-MJ3_TxeFgVZTOKfAUBD%2F-MJ3d4EQbX4kvXy0Wu3v%2FScreen%20Shot%202020-10-07%20at%201.57.30%20PM.png')
 
-### Real-time inspection, simulation, and validation
+(""" ### Real-time inspection, simulation, and validation
 
 After connecting, you can inspect live-streamed app events and activity and filter and search to eliminate noise. Events contain details about validating, debugging, and troubleshooting your mobile app implementation. Project Griffon also lets you screenshot, simulate location signals, and more in real-time.
 
