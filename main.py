@@ -1,8 +1,12 @@
 import streamlit as st
 
 
-st.sidebar.button("Overview")
-st.sidebar.button("Reporting")
+buttons = [button1, button2]
+button1 = st.button("Main")
+button2 = st.button("Overview")
+st.sidebar.radio('Navigation', buttons)
+
+
 
 
 st.markdown (""" # Project Griffon
