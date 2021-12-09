@@ -2,8 +2,7 @@ import streamlit as st
 
 
 buttons = ['Main', 'Reports']
-nav_select = st.radio('Navigation', buttons)
-st.sidebar (nav_select)
+st.sidebar.nav_select = st.radio('Navigation', buttons)
 
 
 st.markdown (""" # Project Griffon
