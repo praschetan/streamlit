@@ -5,7 +5,7 @@ buttons = ['Main', 'Reports']
 nav_select = st.sidebar.radio('Navigation', buttons)
 
 
-if nav_select = 'Reports':
+if nav_select == 'Reports':
 
 	st.markdown (""" # Project Griffon
 
