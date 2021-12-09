@@ -1,6 +1,12 @@
 import streamlit as st
 
 
+add_selectbox = st.sidebar.selectbox(
+    "How would you like to be contacted?",
+    ("Email", "Home phone", "Mobile phone")
+)
+
+
 st.markdown (""" # Project Griffon
 
 Project Griffon is a new, innovative beta product from [Adobe Experience Cloud](https://www.adobe.com/experience-cloud.html) to help you inspect, proof, simulate, and validate how you collect data or serve experiences in your mobile app.
