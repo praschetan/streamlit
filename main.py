@@ -1,10 +1,6 @@
 import streamlit as st
 
 
-
-st.title ("My first app")
-st.markdown (""" Project Griffon is a new, innovative beta product from [Adobe Experience Cloud](https://www.adobe.com/experience-cloud.html) to help you inspect, proof, simulate, and validate how you collect data or serve experiences in your mobile app. We're building Project Griffon to do the heavy lifting of getting your app implementation right, while you focus on creating engaging experiences.""")
-
 st.markdown (""" # Project Griffon
 
 Project Griffon is a new, innovative beta product from [Adobe Experience Cloud](https://www.adobe.com/experience-cloud.html) to help you inspect, proof, simulate, and validate how you collect data or serve experiences in your mobile app.
@@ -78,7 +74,7 @@ To get started with Project Griffon, see the following:
 * [Using Project Griffon](using-project-griffon/)
 
 To access Project Griffon, see instructions on [Set up Project Griffon](set-up-project-griffon.md#how-to-participate-in-the-project-griffon-beta)
-å
+
 
 """)
 
