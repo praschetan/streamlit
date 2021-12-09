@@ -1,8 +1,8 @@
 import streamlit as st
 
 
-add_selectbox = st.sidebar.button("Overview")
-add_selectbox = st.sidebar.button("Reporting")
+st.sidebar.button("Overview")
+st.sidebar.button("Reporting")
 
 
 st.markdown (""" # Project Griffon
