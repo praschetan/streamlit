@@ -8,8 +8,7 @@ Project Griffon is a new, innovative beta product from [Adobe Experience Cloud](
 We're building Project Griffon to do the heavy lifting of getting your app implementation right, while you focus on creating engaging experiences. """)
 
 
-st.subheader('Project Griffon is a beta product.')
-st.subheader('To use it, you must accept the terms on [https://experience.adobe.com/griffon](https://experience.adobe.com/griffon).')
+st.subheader('Project Griffon is a beta product. To use it, you must accept the terms on [https://experience.adobe.com/griffon](https://experience.adobe.com/griffon).')
 
 
 (""" ## What can Project Griffon do for you?
