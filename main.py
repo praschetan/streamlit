@@ -23,7 +23,7 @@ Get started in a hurry with few lines of code. For mobile apps, Project Griffon 
 
 With Project Griffon, we've made connecting your app with our service simple and reliable. We've saved you the hassle of using network proxies, [MiTM](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) and other network gymnastics - connecting your app to Project Griffon is made as easy as scanning a QR code. """)
 
-st.image('https://aep-sdks.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lf1Mc1caFdNCK_mBwhe%2F-MJ3_TxeFgVZTOKfAUBD%2F-MJ3d4EQbX4kvXy0Wu3v%2FScreen%20Shot%202020-10-07%20at%201.57.30%20PM.png')
+st.image('https://aep-sdks.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lf1Mc1caFdNCK_mBwhe%2F-MJ3_TxeFgVZTOKfAUBD%2F-MJ3d4EQbX4kvXy0Wu3v%2FScreen%20Shot%202020-10-07%20at%201.57.30%20PM.png?alt=media&token=1ae1179e-6862-438f-88d8-0bb826ff5c82')
 
 (""" ### Real-time inspection, simulation, and validation
 
