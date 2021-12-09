@@ -27,17 +27,18 @@ st.image('https://aep-sdks.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/a
 
 (""" ### Real-time inspection, simulation, and validation
 
-After connecting, you can inspect live-streamed app events and activity and filter and search to eliminate noise. Events contain details about validating, debugging, and troubleshooting your mobile app implementation. Project Griffon also lets you screenshot, simulate location signals, and more in real-time.
+After connecting, you can inspect live-streamed app events and activity and filter and search to eliminate noise. Events contain details about validating, debugging, and troubleshooting your mobile app implementation. Project Griffon also lets you screenshot, simulate location signals, and more in real-time. """)
 
-![](../../.gitbook/assets/screen-shot-2020-10-07-at-2.11.07-pm.png)
+st.image('https://aep-sdks.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lf1Mc1caFdNCK_mBwhe%2F-MJ3_TxeFgVZTOKfAUBD%2F-MJ3g8YsxmayrSzakqaM%2FScreen%20Shot%202020-10-07%20at%202.11.07%20PM.png?alt=media&token=06092b39-5903-4a18-b586-308c3002717e')
 
-### Integration with Adobe Experience Cloud
+(""" ### Integration with Adobe Experience Cloud
 
-Client-side data and experiences are given context by how users setup reporting rules, activities, and campaigns on our marketer-focused user interfaces. To help you connect the dots between the two, we're integrating with Adobe Experience Cloud solutions such as Adobe Experience Platform, Adobe Analytics, Adobe Target, Places Service, and more.
+Client-side data and experiences are given context by how users setup reporting rules, activities, and campaigns on our marketer-focused user interfaces. To help you connect the dots between the two, we're integrating with Adobe Experience Cloud solutions such as Adobe Experience Platform, Adobe Analytics, Adobe Target, Places Service, and more. """)
 
-![](../../.gitbook/assets/screen-shot-2020-10-07-at-2.16.56-pm.png)
+st.image('https://aep-sdks.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lf1Mc1caFdNCK_mBwhe%2F-MJ3h3rzFUNwdyNCVIIi%2F-MJ3hTOwFiGLMYxY3i2I%2FScreen%20Shot%202020-10-07%20at%202.16.56%20PM.png?alt=media&token=23c1edfa-9278-4ffb-9f0a-3b10a806659a')
 
-## Features
+
+(""" ## Features
 
 ### Adobe Experience Platform Mobile SDK Events, logs, and more
 
