@@ -13,6 +13,10 @@ def load_data(nrows):
     return data
 
 
+st.subheader('Raw data')
+st.write(data)
+
+
 buttons = ['Main', 'Reports']
 nav_select = st.sidebar.radio('Navigation', buttons)
 
