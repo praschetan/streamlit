@@ -11,8 +11,10 @@ def load_data(nrows):
     data.rename(lowercase, axis='columns', inplace=True)
     data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
     return data
-    st.subheader('Raw data')
-    st.write(data)
+
+data = load_data(10000)
+st.subheader('Raw data')
+st.write(data)
 
 
 buttons = ['Main', 'Reports']
