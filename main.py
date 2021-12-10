@@ -5,6 +5,7 @@ import pandas as pd
 DATE_COLUMN = 'Week'
 DATA_URL = ('data/usagebyweek.csv')
 
+@st.cache
 def load_data(nrows):
     data = pd.read_csv(DATA_URL, nrows=nrows)
     data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
@@ -14,6 +15,7 @@ data = load_data(400)
 st.subheader('Raw data')
 st.write(data)
 
+st.line_chart(data)
 
 buttons = ['Main', 'Reports']
 nav_select = st.sidebar.radio('Navigation', buttons)
