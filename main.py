@@ -9,7 +9,7 @@ def load_data(nrows):
     data = pd.read_csv(DATA_URL, nrows=nrows)
     return data
 
-data = load_data()
+data = load_data(400)
 st.subheader('Raw data')
 st.write(data)
 
