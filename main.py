@@ -7,6 +7,7 @@ DATA_URL = ('data/usagebyweek.csv')
 
 def load_data(nrows):
     data = pd.read_csv(DATA_URL, nrows=nrows)
+    data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
     return data
 
 data = load_data(400)
