@@ -15,6 +15,8 @@ data = load_data(400)
 st.subheader('Raw data')
 st.write(data)
 
+chart_data = pd.DataFrame('Week', columns=['Page Views', 'Unique Visitors', 'Created Sessions'])
+
 st.line_chart(data)
 
 buttons = ['Main', 'Reports']
